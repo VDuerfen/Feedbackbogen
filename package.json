@@ -1,0 +1,15 @@
+{
+    "name": "feedback-website",
+    "version": "1.0.0",
+    "description": "Eine Website zur Sammlung und Auswertung von Feedbackbögen von Schülern und Lehrern.",
+    "main": "backend/server.js",
+    "scripts": {
+      "start": "node backend/server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^5.12.3"
+    },
+    "author": "VDuerfen",
+    "license": "MIT"
+  }
